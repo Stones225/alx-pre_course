@@ -1,1 +1,2 @@
-My new REnew line
+My new line
+new line
